@@ -1,0 +1,30 @@
+F:\BackEnd\Exam\Examination System (Console App)\Linq Assignment 01 sln\Linq Assignment 01\bin\Debug\net6.0\Linq Assignment 01.exe
+F:\BackEnd\Exam\Examination System (Console App)\Linq Assignment 01 sln\Linq Assignment 01\bin\Debug\net6.0\Linq Assignment 01.deps.json
+F:\BackEnd\Exam\Examination System (Console App)\Linq Assignment 01 sln\Linq Assignment 01\bin\Debug\net6.0\Linq Assignment 01.runtimeconfig.json
+F:\BackEnd\Exam\Examination System (Console App)\Linq Assignment 01 sln\Linq Assignment 01\bin\Debug\net6.0\Linq Assignment 01.dll
+F:\BackEnd\Exam\Examination System (Console App)\Linq Assignment 01 sln\Linq Assignment 01\bin\Debug\net6.0\Linq Assignment 01.pdb
+F:\BackEnd\Exam\Examination System (Console App)\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\Linq Assignment 01.csproj.AssemblyReference.cache
+F:\BackEnd\Exam\Examination System (Console App)\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\Linq Assignment 01.GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\Exam\Examination System (Console App)\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\Linq Assignment 01.AssemblyInfoInputs.cache
+F:\BackEnd\Exam\Examination System (Console App)\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\Linq Assignment 01.AssemblyInfo.cs
+F:\BackEnd\Exam\Examination System (Console App)\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\Linq Assignment 01.csproj.CoreCompileInputs.cache
+F:\BackEnd\Exam\Examination System (Console App)\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\Linq Assignment 01.dll
+F:\BackEnd\Exam\Examination System (Console App)\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\refint\Linq Assignment 01.dll
+F:\BackEnd\Exam\Examination System (Console App)\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\Linq Assignment 01.pdb
+F:\BackEnd\Exam\Examination System (Console App)\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\Linq Assignment 01.genruntimeconfig.cache
+F:\BackEnd\Exam\Examination System (Console App)\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\ref\Linq Assignment 01.dll
+F:\BackEnd\Linq\Linq Assignment 01 sln\Linq Assignment 01\bin\Debug\net6.0\Linq Assignment 01.exe
+F:\BackEnd\Linq\Linq Assignment 01 sln\Linq Assignment 01\bin\Debug\net6.0\Linq Assignment 01.deps.json
+F:\BackEnd\Linq\Linq Assignment 01 sln\Linq Assignment 01\bin\Debug\net6.0\Linq Assignment 01.runtimeconfig.json
+F:\BackEnd\Linq\Linq Assignment 01 sln\Linq Assignment 01\bin\Debug\net6.0\Linq Assignment 01.dll
+F:\BackEnd\Linq\Linq Assignment 01 sln\Linq Assignment 01\bin\Debug\net6.0\Linq Assignment 01.pdb
+F:\BackEnd\Linq\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\Linq Assignment 01.csproj.AssemblyReference.cache
+F:\BackEnd\Linq\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\Linq Assignment 01.GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\Linq\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\Linq Assignment 01.AssemblyInfoInputs.cache
+F:\BackEnd\Linq\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\Linq Assignment 01.AssemblyInfo.cs
+F:\BackEnd\Linq\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\Linq Assignment 01.csproj.CoreCompileInputs.cache
+F:\BackEnd\Linq\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\Linq Assignment 01.dll
+F:\BackEnd\Linq\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\refint\Linq Assignment 01.dll
+F:\BackEnd\Linq\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\Linq Assignment 01.pdb
+F:\BackEnd\Linq\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\Linq Assignment 01.genruntimeconfig.cache
+F:\BackEnd\Linq\Linq Assignment 01 sln\Linq Assignment 01\obj\Debug\net6.0\ref\Linq Assignment 01.dll
